@@ -17,3 +17,13 @@
  - mongoose 
  - passport 
  - passport-jwt
+ - @nestjs/config
+ 
+ ### Typescript (only dev)
+ npm i -D 
+ 
+ - @types/bcryptjs 
+ - @types/express 
+ - @types/mongoose 
+ - @types/passport-jwt
+ 
